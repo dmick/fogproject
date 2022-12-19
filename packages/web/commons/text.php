@@ -19,6 +19,7 @@
  * @link     https://fogproject.org
  */
 //Singular, status words to translate.
+require('gettext');
 $foglang['Display'] = _('Display');
 $foglang['Auto'] = _('Auto');
 $foglang['Model'] = _('Model');
